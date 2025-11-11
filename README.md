@@ -1,2 +1,2 @@
-# radar_system
-bu kodda basit bir şekilde evde arduino ile birlikte bir radar sistemi yapmayı amaçlamaktadır.bu koddan sonra malzemeler ve çalışma şeklide gösterilecektir.
+# radar_systeM
+In this code, I aimed to make a radar system. This code belongs to the radar system and detailed information on how to do it will come.
